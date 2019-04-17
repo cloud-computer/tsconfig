@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "source-map-support": "^0.5.11",
+    "typescript-tslint-plugin": "^0.3.1"
+  },
+  "description": "The Cloud Computer tsconfig",
+  "keywords": [
+    "tsconfig",
+    "typescript",
+    "ts"
+  ],
+  "main": "tsconfig.json",
+  "name": "@cloud-computer/tsconfig",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloud-computer/tsconfig"
+  },
+  "version": "0.0.1"
+}

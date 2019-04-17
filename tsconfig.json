@@ -1,0 +1,23 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationMap": true,
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "pretty": true,
+    "preserveSymlinks": true,
+    "resolveJsonModule": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strict": true,
+    "target": "es2017"
+  },
+  "include": [
+    "node_modules/@cloud-computer/jest-config/typings.d.ts"
+  ],
+  "plugins": [
+    {
+      "name": "typescript-tslint-plugin"
+    }
+  ]
+}
